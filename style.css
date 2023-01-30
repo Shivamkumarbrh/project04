@@ -61,7 +61,11 @@ footer p{
     padding: 20px 0xp;
 }
 footer p i{
+    font-size: 20px;
     padding: 20px 10px;
+}
+footer a{
+    color:black;
 }
 @media screen and (max-width:600px){
     .f-content li{
